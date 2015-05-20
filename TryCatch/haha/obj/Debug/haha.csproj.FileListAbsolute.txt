@@ -1,0 +1,5 @@
+D:\Visual Studio\TryCatch\haha\bin\Debug\haha.exe.config
+D:\Visual Studio\TryCatch\haha\bin\Debug\haha.exe
+D:\Visual Studio\TryCatch\haha\bin\Debug\haha.pdb
+D:\Visual Studio\TryCatch\haha\obj\Debug\haha.exe
+D:\Visual Studio\TryCatch\haha\obj\Debug\haha.pdb

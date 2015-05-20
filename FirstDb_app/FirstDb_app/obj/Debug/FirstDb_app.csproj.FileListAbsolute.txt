@@ -1,0 +1,7 @@
+D:\Visual Studio\FirstDb_app\FirstDb_app\bin\Debug\FirstDb_app.exe.config
+D:\Visual Studio\FirstDb_app\FirstDb_app\bin\Debug\FirstDb_app.exe
+D:\Visual Studio\FirstDb_app\FirstDb_app\bin\Debug\FirstDb_app.pdb
+D:\Visual Studio\FirstDb_app\FirstDb_app\bin\Debug\MySql.Data.dll
+D:\Visual Studio\FirstDb_app\FirstDb_app\obj\Debug\FirstDb_app.csprojResolveAssemblyReference.cache
+D:\Visual Studio\FirstDb_app\FirstDb_app\obj\Debug\FirstDb_app.exe
+D:\Visual Studio\FirstDb_app\FirstDb_app\obj\Debug\FirstDb_app.pdb

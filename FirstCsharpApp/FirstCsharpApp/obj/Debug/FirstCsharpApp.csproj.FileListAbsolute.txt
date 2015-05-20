@@ -1,0 +1,10 @@
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\bin\Debug\FirstCsharpApp.exe.config
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\bin\Debug\FirstCsharpApp.exe
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\bin\Debug\FirstCsharpApp.pdb
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\bin\Debug\MySql.Data.dll
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\obj\Debug\FirstCsharpApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\obj\Debug\FirstCsharpApp.Form1.resources
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\obj\Debug\FirstCsharpApp.Properties.Resources.resources
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\obj\Debug\FirstCsharpApp.csproj.GenerateResource.Cache
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\obj\Debug\FirstCsharpApp.exe
+D:\Visual Studio\FirstCsharpApp\FirstCsharpApp\obj\Debug\FirstCsharpApp.pdb

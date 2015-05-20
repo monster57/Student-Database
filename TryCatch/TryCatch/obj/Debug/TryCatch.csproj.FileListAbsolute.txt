@@ -1,0 +1,6 @@
+D:\Visual Studio\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+D:\Visual Studio\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+D:\Visual Studio\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+D:\Visual Studio\TryCatch\TryCatch\obj\Debug\TryCatch.csprojResolveAssemblyReference.cache
+D:\Visual Studio\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+D:\Visual Studio\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
