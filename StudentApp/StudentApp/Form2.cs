@@ -20,17 +20,19 @@ namespace StudentApp
 
         private void Submit_Click(object sender, EventArgs e)
         {
+           
             DatabaseConnector databaseConnector = new DatabaseConnector();
             
             Student student = new Student();
-            student.Fname = this.fName.Text;
-            student.Lname = this.lName.Text;
+            student.FirstName = this.fName.Text;
+            student.LastName = this.lName.Text;
             student.Age = Convert.ToInt32(this.age.Text);
-            student.Subject = this.subject.Text;
-            Operation operation = new Operation();
-            Executor executor = new Executor(operation , student, databaseConnector);
+//            student.Sub = this.subject.Text;
 
-            String message = executor.Execute();
+            QueryCreator queryCreator = new QueryCreator(student);
+            Executor executor = new Executor(student, databaseConnector, queryCreator);
+
+            String message = executor.Execute(QueryType.INSERTQUERY);
             MessageBox.Show(message);
         
         }

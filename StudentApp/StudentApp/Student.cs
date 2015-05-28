@@ -1,18 +1,15 @@
 using System;
+using System.Collections.Generic;
 
 namespace StudentApp
 {
-    internal class Student
+    public class Student
     {
-        public int ID 
-        { get; set; }
-        public string Fname
-        { get; set; }
-        public string Lname
-        { get; set; }
-        public int Age
-        { get; set; }
-        public string Subject
-        { get; set; }
+        public virtual int ID { get; set; }
+        public virtual string FirstName { get; set; }
+        public virtual string LastName { get; set; }
+        public virtual int Age { get; set; }
+
+        public virtual ISet<Subject> Subjects { get; set; }
     }
 }

@@ -25,15 +25,14 @@ namespace StudentApp
             string value = this.id.Text;
 
             student.ID = Convert.ToInt32(this.id.Text);
-            student.Fname = this.fName.Text;
-            student.Lname = this.lName.Text;
-            student.Age = Convert.ToInt32(this.age.Text);
-            student.Subject = this.subject.Text;
+            student.FirstName = this.fName.Text;
+            student.LastName = this.lName.Text;
+            student.Age = (this.age.Text=="")?0:Convert.ToInt32(this.age.Text);
+//            student.Sub = this.subject.Text;
 
-            Operation operation = new Operation();
-
-            Executor executor = new Executor(operation, student, databaseConnector);
-            String message = executor.Execute();
+            QueryCreator queryCreator = new QueryCreator(student);
+            Executor executor = new Executor(student, databaseConnector, queryCreator);
+            String message = executor.Execute(QueryType.UPDATEQUERY);
             MessageBox.Show(message);
         }
 
